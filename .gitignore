@@ -1,0 +1,33 @@
+# Python cache and virtual envs
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Audio and generated output
+*.wav
+*.mp3
+/output/
+audio/
+OTHER/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
